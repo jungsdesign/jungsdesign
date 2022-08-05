@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jungsdesign. 
 - 👀 I’m interested in UX design and programming. 
-- 🌱 I’m currently learning ReactJS and Bootstrap5
+- 🌱 I’m currently learning Pytheon. 
 - 💞️ Should reach out to me at jungsdesign@gmail.com for any questions
 
 <!---
